@@ -1,0 +1,26 @@
+#header{
+    height: 90px;
+    padding: 13px;
+    border-bottom: 1px solid coral;
+    width: auto;
+    vertical-align: middle;
+}
+#google-image, #search-bar{
+    text-align: start;
+    vertical-align: middle;
+    display: inline;
+}
+#google-image{
+    padding-left: 8px;
+    height: 30px;
+    width: 92px;
+}
+#search-bar{
+    padding-left: 20px;
+}
+#text-entry{
+    height: 39px;
+    width: 562px;
+    border-radius: 20px;
+    border: 1px solid coral;
+}
