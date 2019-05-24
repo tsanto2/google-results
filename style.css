@@ -17,6 +17,12 @@ li.goog-li{
 .goog-li{
     padding-left: 22px;
 }
+.head-text{
+    color: #777;
+    font-family: 'Roboto',arial,sans-serif;
+    font-size: 13px;
+    padding-left: 140px;
+}
 
 #left-links, #right-links{
     display: inline;
@@ -77,4 +83,51 @@ ul#left-links{
     margin: 0;
     padding: 0;
     padding-left: 128px;
+}
+.head-text{
+    margin-bottom: 20px;
+}
+
+
+#result-body{
+    margin-top: 12px;
+    margin-left: 142px;
+    width: 592px;
+}
+
+a.result-link{
+    font-size: 18px;
+}
+a:link.result-link{
+    color: #1a0dab;
+}
+a:hover.result-link{
+    text-decoration: underline;
+}
+a:visited.result-link{
+    color: #609;
+}
+
+a.cite-link{
+    size: 14px;
+    padding-bottom: 0px;
+}
+a:link.cite-link{
+    color: #006621;
+}
+a:visited.cite-link{
+    color: #006621;
+}
+
+.result-preview{
+    margin-top: 4px;
+    padding-top: 0px;
+    line-height: 1.54;
+    font-size: 13px;
+    color: #545454;
+    font-family: 'Roboto',arial,sans-serif;
+}
+
+.result{
+    margin-bottom: 27px;
 }
